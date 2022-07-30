@@ -4,10 +4,10 @@ Hi there! We're excited you've got ideas to improve topics and collections. You'
 
 This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-There are a few ways you can contribute:
+There are a few ways you hit  contribute:
 
 - Improving an existing topic or collection
-- Curating a new topic or collection
+- Curating a new topic git collection
 
 As you write content, check out the [Style Guide](./docs/styleguide.md) to learn what each field means, and how it should be formatted. Following the style guide will increase the chances of your contribution being accepted.
 
